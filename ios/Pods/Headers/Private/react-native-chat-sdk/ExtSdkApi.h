@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-chat-sdk/native_src/cpp/core/ExtSdkApi.h

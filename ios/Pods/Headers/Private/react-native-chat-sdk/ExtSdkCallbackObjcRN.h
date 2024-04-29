@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-chat-sdk/native_src/objc/rn/ExtSdkCallbackObjcRN.h

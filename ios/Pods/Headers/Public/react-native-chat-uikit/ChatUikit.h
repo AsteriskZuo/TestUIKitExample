@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-chat-uikit/ios/ChatUikit.h

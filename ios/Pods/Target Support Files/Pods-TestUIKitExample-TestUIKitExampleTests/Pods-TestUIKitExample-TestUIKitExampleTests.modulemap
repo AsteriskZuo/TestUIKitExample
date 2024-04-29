@@ -1,6 +1,0 @@
-module Pods_TestUIKitExample_TestUIKitExampleTests {
-  umbrella header "Pods-TestUIKitExample-TestUIKitExampleTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
