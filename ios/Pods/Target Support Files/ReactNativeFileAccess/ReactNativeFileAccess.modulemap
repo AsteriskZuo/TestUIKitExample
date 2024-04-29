@@ -1,0 +1,6 @@
+module ReactNativeFileAccess {
+  umbrella header "ReactNativeFileAccess-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "react-native-chat-uikit",
+  "version": "2.1.0-beta.4",
+  "summary": "test",
+  "homepage": "https://github.com/easemob/react-native-chat-library#readme",
+  "license": "MIT",
+  "authors": "Asterisk <zuoyu@agora.io> (https://github.com/asteriskzuo)",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/AsteriskZuo/react-native-chat-uikit.git",
+    "tag": "2.1.0-beta.4"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

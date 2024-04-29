@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-chat-sdk/native_src/cpp/objc/ExtSdkApiObjcImpl.h
